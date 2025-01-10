@@ -56,6 +56,11 @@
 - BAGEL (Java Game Engine Package)
   
 ---
+## Installation and setup
+1. Download all files via git clone https://github.com/MoltoRubato/ShadowTaxi.git
+2. Open ShadowTaxi.java in the src folder
+
+---
 
 ## Contributors
 - Kerui Huang
